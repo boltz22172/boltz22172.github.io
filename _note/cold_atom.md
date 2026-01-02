@@ -2,6 +2,7 @@
 title: "Course Notes: Cold Atom Physics"
 layout: single
 author_profile: false
+excerpt: "Course notes for Ultra Cold Atom Physics (2025 Fall, at Tsinghua). PDF list included."
 ---
 
 <div style="float:right; width:260px; margin:0 0 1rem 1.5rem; border:1px solid #9ca3af; background:#f3f4f6; padding:12px; border-radius:8px; font-size:0.9em; color:#374151;">
