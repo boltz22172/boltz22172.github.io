@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 <div style="float:right; width:260px; margin:0 0 1rem 1.5rem; border:1px solid #9ca3af; background:#f3f4f6; padding:12px; border-radius:8px; font-size:0.9em; color:#374151;">
-  <img src="/images/notes_cover.png" alt="Notes" style="width:100%; border-radius:6px; margin-bottom:10px;">
+  <img src="/images/Pic_me.png" alt="Notes" style="width:100%; border-radius:6px; margin-bottom:10px;">
   <strong>Course Notes</strong><br>
   Cold Atom Physics (Hui Zhai, Tsinghua).<br><br>
   <em>Working notes; may contain errors.</em>
