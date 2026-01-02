@@ -6,7 +6,7 @@ excerpt: "Notes from the wine course at Cornell University in Fall 2024 — the 
 ---
 
 <div style="float:right; width:280px; margin:0 0 1rem 1.5rem; border:2px solid #9ca3af; background:#f3f4f6; padding:12px; border-radius:8px; font-size:0.9em; color:#374151;">
-  <img src="/images/notes_images/ Wine_pink.png" alt="Notes" style="width:100%; border-radius:6px; margin-bottom:10px;">
+  <img src="/images/notes_images/Wine_pink.png" alt="Notes" style="width:100%; border-radius:6px; margin-bottom:10px;">
   <strong>Wine</strong><br>
   Wine is a quiet dialogue between earth and time, carrying the memory of sun, soil, and seasons within a single glass. It invites patience and attention, revealing depth not through force, but through balance, nuance, and lingering grace.<br><br>
   <em>Course notes; may contain mistakes.</em>
