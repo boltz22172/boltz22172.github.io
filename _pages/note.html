@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.note reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <div style="border: 1px solid #9ca3af; background: #f3f4f6; color: #111827; padding: 12px 14px; border-radius: 8px; margin: 0 0 18px 0; font-size: 0.95em; line-height: 1.55;">
   <strong>Disclaimer.</strong><br>
   These notes are my personal working notes. If you find them useful, I would be very happy! Feel free to <a href="mailto:wangtristan127@gmail.com">email me</a> for discussion.<br>
@@ -14,8 +18,3 @@ author_profile: true
   © 2026 Tristan Wang. Licensed under <strong>CC BY-NC-ND 4.0</strong>.<br>
   You may share the notes with attribution for non-commercial purposes, but you may not modify them or redistribute modified versions. Commercial use is not permitted.
 </div>
-
-
-{% for post in site.note reversed %}
-  {% include archive-single.html %}
-{% endfor %}
