@@ -23,7 +23,7 @@ repository               : "boltz22172/boltz22172.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PROFILE.png"
+  avatar           : "Pic_me.png"
   name             : "Xicheng (Tristan) Wang"
   #pronouns         : # example: "she/her"  
   bio              : "Senior undergraduate at Tsinghua University. Condensed matter theory."
