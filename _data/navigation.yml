@@ -27,7 +27,7 @@ main:
     url: /cv/
 
   - Notes: "Notes"
-    url: /notes/
+    url: /note/
     
   # - title: "CV"
   #   url: /cv-json/
