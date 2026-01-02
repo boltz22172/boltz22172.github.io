@@ -20,7 +20,7 @@ I miss the dinners after class: walking from **Statler Hall** to **Morrison**, f
 
 I miss the days that felt like **Riesling**—bright and clear, with a playful edge of acidity, and a finish that goes on and on, long enough that even now I want to open another bottle.
 
-## Dedicated to those days like wine..
+## Dedicated to those days like wine.
 
 - [Fundamentals of Wines I](/files/notes/Wine_note1.pdf)
 - [Fundamentals of Wines II](/files/notes/Wine_final.pdf)
