@@ -1,6 +1,18 @@
 ---
 title: "Course Notes: Cold Atom Physics"
 layout: single
+author_profile: false
+sidebar:
+  custom: |
+    <div class="sidebar sticky">
+      <img src="/images/Pic_me.png"
+           style="width:100%; border-radius:6px; margin-bottom:1em;">
+      <p style="font-size:0.9em; color:#555;">
+        Personal course notes.<br>
+        May contain errors.<br>
+        Not for redistribution.
+      </p>
+    </div>
 ---
 
 These are my course notes for *Cold Atom Physics* taught by Prof. Hui Zhai at Tsinghua University.
