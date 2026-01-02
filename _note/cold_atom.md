@@ -2,24 +2,21 @@
 title: "Course Notes: Cold Atom Physics"
 layout: single
 author_profile: false
-sidebar:
-  custom: |
-    <div class="sidebar sticky">
-      <img src="/images/Pic_me.png"
-           style="width:100%; border-radius:6px; margin-bottom:1em;">
-      <p style="font-size:0.9em; color:#555;">
-        Personal course notes.<br>
-        May contain errors.<br>
-        Not for redistribution.
-      </p>
-    </div>
 ---
+
+<div style="float:right; width:260px; margin:0 0 1rem 1.5rem; border:1px solid #9ca3af; background:#f3f4f6; padding:12px; border-radius:8px; font-size:0.9em; color:#374151;">
+  <img src="/images/notes_cover.png" alt="Notes" style="width:100%; border-radius:6px; margin-bottom:10px;">
+  <strong>Course Notes</strong><br>
+  Cold Atom Physics (Hui Zhai, Tsinghua).<br><br>
+  <em>Working notes; may contain errors.</em>
+</div>
 
 These are my course notes for *Cold Atom Physics* taught by Prof. Hui Zhai at Tsinghua University.
 
 The course follows, at least in part, the textbook [*Ultracold Atomic Physics*](https://www.cambridge.org/core/books/ultracold-atomic-physics/F47F9C80F9AF593E66A1942B0EA513C4) by Cambridge University Press. My notes mainly supplement the derivations omitted in the textbook, along with some of my own interpretations and insights.
 
-The notes are:
+## Notes (PDF)
+
 - [Bose_Einstein_Condensation](/files/notes/Bose_Einstein_Condensation.pdf)
 - [Bose_Hydrodynamic_Theory](/files/notes/Bose_Hydrodynamic_Theory.pdf)
 - [Bogoliubov_Theory](/files/notes/Bogoliubov_Theory.pdf)
@@ -32,4 +29,7 @@ The notes are:
 - [Topological_Band_Theory](/files/notes/Topological_Band_Theory.pdf)
 - [Bose_Hubbard_Model](/files/notes/Bose_Hubbard_Model.pdf)
 - [Fermi_Hubbard_Model](/files/notes/Fermi_Hubbard_Model.pdf)
+
+<div style="clear:both;"></div>
+
 
