@@ -2,7 +2,7 @@
 title: "Course Notes: Cold Atom Physics"
 layout: single
 author_profile: false
-excerpt: "Course notes for Ultra Cold Atom Physics (2025 Fall, at Tsinghua). PDF list included."
+excerpt: "Course notes for Ultra Cold Atom Physics (2025 Fall, at Tsinghua)."
 ---
 
 <div style="float:right; width:280px; margin:0 0 1rem 1.5rem; border:2px solid #9ca3af; background:#f3f4f6; padding:12px; border-radius:8px; font-size:0.9em; color:#374151;">
@@ -15,6 +15,10 @@ excerpt: "Course notes for Ultra Cold Atom Physics (2025 Fall, at Tsinghua). PDF
 These are my course notes for *Cold Atom Physics* taught by Prof. Hui Zhai at Tsinghua University.
 
 The course follows, at least in part, the textbook [*Ultracold Atomic Physics*](https://www.cambridge.org/core/books/ultracold-atomic-physics/F47F9C80F9AF593E66A1942B0EA513C4) by Cambridge University Press. My notes mainly supplement the derivations omitted in the textbook, along with some of my own interpretations and insights.
+
+Prof. Zhai’s lectures place strong emphasis on building physical intuition. The logic is very clear, and the approach is also quite modern. I would highly recommend his [recorded lectures on Bilibili](https://www.bilibili.com/video/BV1zB4y1j7C2/?spm_id_from=333.337.search-card.all.click&vd_source=73494360b179bedd2c175423636b0e7b).
+
+In addition, I appreciate the companionship of my friends, Chu-Tao and Jing-You. Studying together has been a genuinely joyful experience.
 
 ## Notes (PDF)
 
