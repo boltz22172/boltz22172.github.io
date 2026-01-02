@@ -5,8 +5,19 @@ layout: single
 
 These are my course notes for *Cold Atom Physics* taught by Prof. Hui Zhai at Tsinghua University.
 
-The course follows, at least in part, the textbook  
-[*Ultracold Atomic Physics*](https://www.cambridge.org/core/books/ultracold-atomic-physics/F47F9C80F9AF593E66A1942B0EA513C4)  
-by Cambridge University Press.
+The course follows, at least in part, the textbook [*Ultracold Atomic Physics*](https://www.cambridge.org/core/books/ultracold-atomic-physics/F47F9C80F9AF593E66A1942B0EA513C4) by Cambridge University Press. My notes mainly supplement the derivations omitted in the textbook, along with some of my own interpretations and insights.
 
-[Topology_in_BEC](/files/notes/Topology_in_BEC.pdf)
+The notes are:
+- [Bose_Einstein_Condensation](/files/notes/Bose_Einstein_Condensation.pdf)
+- [Bose_Hydrodynamic_Theory](/files/notes/Bose_Hydrodynamic_Theory.pdf)
+- [Bogoliubov_Theory](/files/notes/Bogoliubov_Theory.pdf)
+- [Topology_in_BEC](/files/notes/Topology_in_BEC.pdf)
+- [Spinor_BEC](/files/notes/Spinor_BEC.pdf)
+- [Bosonic_Double_Well](/files/notes/Bosonic_Double_Well.pdf)
+- [Fermi_Liquids](/files/notes/Fermi_Liquids.pdf)
+- [BCS_Theory](/files/notes/BCS_Theory.pdf)
+- [BCS_BEC_Crossover](/files/notes/BCS_BEC_Crossover.pdf)
+- [Topological_Band_Theory](/files/notes/Topological_Band_Theory.pdf)
+- [Bose_Hubbard_Model](/files/notes/Bose_Hubbard_Model.pdf)
+- [Fermi_Hubbard_Model](/files/notes/Fermi_Hubbard_Model.pdf)
+
