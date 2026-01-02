@@ -26,7 +26,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - Notes: "Notes"
+  - title: "Notes"
     url: /note/
     
   # - title: "CV"
