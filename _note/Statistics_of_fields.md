@@ -6,7 +6,7 @@ excerpt: "Notes for the book *Statistical Physics of Fields* (2024 Winter, at Co
 ---
 
 <div style="float:right; width:280px; margin:0 0 1rem 1.5rem; border:2px solid #9ca3af; background:#f3f4f6; padding:12px; border-radius:8px; font-size:0.9em; color:#374151;">
-  <img src="/images/notes_images/Stat_field.png" alt="Notes" style="width:100%; border-radius:6px; margin-bottom:10px;">
+  <img src="/images/notes_images/Stat_Field.png" alt="Notes" style="width:100%; border-radius:6px; margin-bottom:10px;">
   <strong>Statistical Physics of Fields</strong><br>
   Statistical field theory reframes statistical physics in the language of fields: coarse-graining turns microscopic degrees of freedom into collective variables, and fluctuations become the central actor. This perspective links models to universal behavior through correlation functions and the renormalization group.<br><br>
   <em>Book notes; may contain mistakes.</em>
