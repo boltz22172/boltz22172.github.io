@@ -93,14 +93,6 @@ publication_category:
 
 
 
-collections:
-  note:
-    output: true
-    permalink: /note/:path/
-
-
-
-
 
 
 # Site Settings
@@ -245,6 +237,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  note:
+    output: true
+    permalink: /note/:path/
 
 
 # These settings control how pages and collections are included in the site
