@@ -25,8 +25,8 @@ I miss the days that felt like **Riesling**—bright and clear, with a playful e
 - [Fundamentals of Wines I](/files/notes/Wine_note1.pdf)
 - [Fundamentals of Wines II](/files/notes/Wine_final.pdf)
 
-<div style="width:100%; margin:0 0 1rem 0; border-left:4px solid #9ca3af; background:#f3f4f6; padding:14px 16px; border-radius:8px; font-size:0.95em; color:#374151; box-sizing:border-box;">
-  <img src="/images/notes_images/Cheers.png" alt="Notes" style="width:100%; max-height:240px; object-fit:cover; border-radius:6px; margin-bottom:10px;">
+<div style="width:500px; margin:0 0 1rem 0; border-left:4px solid #9ca3af; background:#f3f4f6; padding:14px 16px; border-radius:8px; font-size:0.95em; color:#374151; box-sizing:border-box;">
+  <img src="/images/notes_images/Cheers.png" alt="Notes" style="width:100%; height:auto; border-radius:6px; margin-bottom:10px; display:block;">
   <em>Me and my friends: Mav, Rilke, and Celeste.</em>
 </div>
 
