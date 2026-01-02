@@ -5,7 +5,7 @@ author_profile: false
 excerpt: "Course notes for Ultra Cold Atom Physics (2025 Fall, at Tsinghua). PDF list included."
 ---
 
-<div style="float:right; width:260px; margin:0 0 1rem 1.5rem; border:1px solid #9ca3af; background:#f3f4f6; padding:12px; border-radius:8px; font-size:0.9em; color:#374151;">
+<div style="float:right; width:280px; margin:0 0 1rem 1.5rem; border:2px solid #9ca3af; background:#f3f4f6; padding:12px; border-radius:8px; font-size:0.9em; color:#374151;">
   <img src="/images/notes_images/Cold_Atom_Pic.png" alt="Notes" style="width:100%; border-radius:6px; margin-bottom:10px;">
   <strong>Cold Atom Physics</strong><br>
   Ultracold atomic physics explores gases of atoms cooled to near absolute zero, where quantum mechanics unfolds on a macroscopic scale. With exquisite experimental control, these systems offer a uniquely elegant platform for revealing the beauty of many-body quantum phenomena.<br><br>
