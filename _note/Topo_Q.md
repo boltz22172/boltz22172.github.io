@@ -12,7 +12,7 @@ excerpt: "Notes for the book *Topological Quantum* (2026 Spring, at Tsinghua)."
   <em>Book notes; may contain mistakes.</em>
 </div>
 
-These are my self-study notes written during the spring of 2026, based on Prof. Simom’s  
+These are my self-study notes written during the spring of 2026, based on Prof. Simon’s  
 [*Topological Quantum*](https://academic.oup.com/book/55346).
 
 ## Notes (PDF)
