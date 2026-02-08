@@ -12,7 +12,7 @@ excerpt: "Notes for the book *Statistical Physics of Fields* (2024 Winter, at Co
   <em>Book notes; may contain mistakes.</em>
 </div>
 
-These are my self-study notes written during the winter of 2024, while I was at Cornell, based on  Prof. Kardar’s  
+These are my self-study notes written during the winter of 2024 at Cornell. It's based on Prof. Kardar’s book   
 [*Statistical Physics of Fields*](https://www.cambridge.org/core/books/statistical-physics-of-fields/06F49D11030FB3108683F413269DE945).
 
 The book adopts a distinctly modern perspective and is particularly well suited for a second pass through statistical mechanics. At the same time, it is not always easy to read, and some derivations are nontrivial for beginners. I hope these notes may be of some help.
